@@ -76,7 +76,7 @@ class PostList extends Component {
             },
             date: '5 Set 2019',
             content:
-              'Tenta lá na Outsourcing! Eles estão contratando!'
+              'Tenta lá na XXXXX! Eles estão contratando!'
           }
         ]
       }
