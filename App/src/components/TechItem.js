@@ -5,7 +5,7 @@ function TechItem({ tech, onDelete }) {
     return(
         <li>
             {tech}
-            <button onClick={onDelete} type="button" onDelete={ () => this.handleDelete(tech)}>Remover</button>
+            <button onClick={onDelete} type="button" className="remove" onDelete={ () => this.handleDelete(tech)}>X</button>
         </li>
     );
 };
